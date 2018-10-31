@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\bin\Debug\E3_EstDatos.exe.config
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\bin\Debug\E3_EstDatos.exe
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\bin\Debug\E3_EstDatos.pdb
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.exe
+C:\Users\boyhu\source\repos\E3_EstDatos\E3_EstDatos\obj\Debug\E3_EstDatos.pdb
